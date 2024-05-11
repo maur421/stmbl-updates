@@ -18,7 +18,9 @@ With this repository we are proposing a fresh review of the project making signi
 - Heat dissipation components and case
 - Other obsolete components
 
-<img src="./img/stmbl-v1.1_case.jpg" alt="image" width="600"/> 
+<img src="./img/stmbl-v1.1_case.jpg" alt="image" width="600"/>
+
+<img src="./img/stmbl-v1.1_top.jpg" alt="image" width="300"/> <img src="./img/stmbl-v1.1_bottom.jpg" alt="image" width="300"/> 
 
 ## H-Bridge
 First we needed to replace the original and obsolete H-bridge IRAM256 with a more powerful and easily available one.
